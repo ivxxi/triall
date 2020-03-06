@@ -76,7 +76,7 @@
 }
 
 .heading {
-    background-image: url("/images/africa.jpg");
+    background-image: url(".../images/africa.jpg");
     background-size: 100%;
     height: 100vh;
     background-position: center;
